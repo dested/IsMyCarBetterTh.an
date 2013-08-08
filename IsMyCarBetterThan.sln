@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsMyCarBetterThan", "IsMyCarBetterThan\IsMyCarBetterThan.csproj", "{CFF9A173-7E23-44B2-810D-5A4AB3817BA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsMyCarBetterThanServer", "IsMyCarBetterThanServer\IsMyCarBetterThanServer.csproj", "{E72C6238-F87C-4B32-8E43-C6E04C26FD14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF9A173-7E23-44B2-810D-5A4AB3817BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF9A173-7E23-44B2-810D-5A4AB3817BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF9A173-7E23-44B2-810D-5A4AB3817BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF9A173-7E23-44B2-810D-5A4AB3817BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E72C6238-F87C-4B32-8E43-C6E04C26FD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72C6238-F87C-4B32-8E43-C6E04C26FD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72C6238-F87C-4B32-8E43-C6E04C26FD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72C6238-F87C-4B32-8E43-C6E04C26FD14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
